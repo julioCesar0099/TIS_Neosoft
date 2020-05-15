@@ -40,16 +40,16 @@
                 <li>
                     <a class="collapsible-header waves-effect arrow-r">
                     <i class="fas fa-file-alt"></i>
-                            Combocatorias
+                            Convocatorias
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </a>
                     <div class="collapsible-body">
                         <ul>
                             <li>
-                                <a href="#" class="waves-effect">Combocatorias</a>
+                                <a href="#" class="waves-effect">Convocatorias</a>
                             </li>
                             <li>
-                                <a href="#" class="waves-effect">Nuevo Cmbocatoria</a>
+                                <a href="#" class="waves-effect">Nueva Convocatoria</a>
                             </li>
                         </ul>
                     </div>
